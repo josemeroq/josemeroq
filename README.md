@@ -1,4 +1,9 @@
-## Hi there 👋
+# Jose Mero
+
+![https://github.com](https://raw.githubusercontent.com/josemeroq/josemeroq/master/ale1.jpg)
+
+Hola, mi nombre es Jose Mero 👋  
+### Soy un apasionado desarrollador interesado en [tu especialidad o enfoque, por ejemplo: desarrollo de software, análisis de datos, etc.]
 
 <!--
 **josemeroq/josemeroq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
